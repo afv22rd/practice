@@ -116,7 +116,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Translator App",
+            "projectName": "Practice",
             "settings": {
                 "teamId": null,
                 "appName": null,
@@ -1742,7 +1742,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "1",
+            "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
             "variables": {
